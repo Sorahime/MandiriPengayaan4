@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:paddingTop="60dp"
+    android:background="@color/pink_matcha_soft"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daftar Mahasiswa"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/matcha" />
+
+    <Button
+        android:id="@+id/btnMahasiswa1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sofia Melati Bareut Runa\n105222005"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:lineSpacingExtra="4dp"
+        android:gravity="start|center_vertical"
+        android:padding="14dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/laguna"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnMahasiswa2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Soranna Annelise von Eisengrimm\n104222005"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:lineSpacingExtra="4dp"
+        android:gravity="start|center_vertical"
+        android:padding="14dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/laguna"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnTambah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+ Tambah"
+        android:textStyle="bold"
+        android:textColor="@color/text_soft"
+        android:backgroundTint="@color/matcha_soft"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>

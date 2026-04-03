@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pink Matcha Theme -->
+    <color name="pink_matcha">#F8E1E7</color>
+    <color name="pink_matcha_soft">#FDECEF</color>
+    <color name="pink_matcha_dark">#E8BFC9</color>
+
+    <!-- Matcha Green -->
+    <color name="matcha">#6B7D4E</color>
+    <color name="matcha_light">#9CAF88</color>
+    <color name="matcha_soft">#DDE7D5</color>
+
+    <!-- Accent -->
+    <color name="laguna">#BFD8A7</color>
+    <color name="medograss">#88A47C</color>
+
+    <!-- Text -->
+    <color name="text_dark">#3A3A3A</color>
+    <color name="text_soft">#6E6E6E</color>
+    <color name="white">#FFFFFF</color>
+</resources>
